@@ -1,3 +1,3 @@
 public class test1 {
-// hello1
+int i;
 }
